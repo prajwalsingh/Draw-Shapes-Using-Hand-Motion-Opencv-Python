@@ -15,3 +15,5 @@ d. Take each item from list and plot 1unit radius circle.</br>
 ![alt text](https://github.com/prajwalsingh/Draw-Shapes-Using-Gesture-Opencv-Python/blob/master/cb.png "")
 
 ![alt text](https://github.com/prajwalsingh/Draw-Shapes-Using-Gesture-Opencv-Python/blob/master/cc.png "")
+
+![alt text](https://github.com/prajwalsingh/Draw-Shapes-Using-Hand-Motion-Opencv-Python/blob/master/cd.png "")
