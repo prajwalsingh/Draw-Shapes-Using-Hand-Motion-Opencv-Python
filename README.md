@@ -8,6 +8,8 @@ b. Then with help of findContours we find shapes.</br>
 c. Then take one of the coordinate and append it to list and so on.</br>
 d. Take each item from list and plot 1unit radius circle.</br>
 
+Press s to start and s to stop reading motion.
+
 # Screenshot
 
 ![alt text](https://github.com/prajwalsingh/Draw-Shapes-Using-Gesture-Opencv-Python/blob/master/ca.png "")
